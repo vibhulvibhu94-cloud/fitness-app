@@ -56,19 +56,7 @@ EliteCoachAndroid/
 
 ---
 
-## AdMob Configuration
 
-### App ID
-
-`ca-app-pub-9767918092469462~3655108580`
-
-### Banner Ad Unit ID
-
-`ca-app-pub-9767918092469462/1963694912`
-
-**Configured in:** `AndroidManifest.xml`
-
----
 
 ## Build Instructions
 
