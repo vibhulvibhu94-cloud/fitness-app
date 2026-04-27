@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PROTOCOL</string>
+    
+    <!-- Main Activity -->
+    <string name="greeting_hi">HI,</string>
+    <string name="streak_label">Streak Count</string>
+    <string name="daily_completion">Daily Completion</string>
+    <string name="steps_protocol">Steps Protocol</string>
+    <string name="goal_label">Goal:</string>
+    <string name="save_and_lock">COMPLETE PROTOCOL &amp; SAVE</string>
+    <string name="incomplete_protocol">INCOMPLETE PROTOCOL</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="reset_data">Reset All Data</string>
+    <string name="reset_confirmation">Reset all data? This cannot be undone.</string>
+    
+    <!-- Workout -->
+    <string name="warmup">Warm-up</string>
+    <string name="warmup_sub">5 min dynamic</string>
+    <string name="cardio">Cardio</string>
+    <string name="cardio_sub">20 min Zone 2</string>
+    <string name="stretching">Stretch</string>
+    <string name="stretching_sub">10 min mobility</string>
+    <string name="exercises">Exercises</string>
+    <string name="exercises_complete">%1$d/%2$d Complete</string>
+    
+    <!-- Diet -->
+    <string name="diet_label">Diet</string>
+    <string name="morning">Morning</string>
+    <string name="noon">Noon</string>
+    <string name="night">Night</string>
+    <string name="fuel">Fuel</string>
+    <string name="strict_avoidance">Strict Avoidance List</string>
+    <string name="weekly_schedule">Weekly Schedule</string>
+    <string name="close_schedule">Close Schedule</string>
+    
+    <!-- Lock Confirmation -->
+    <string name="last_chance">Last Chance</string>
+    <string name="lock_warning">The protocol record is permanent. If you lie to the system, you only cheat your own progress.</string>
+    <string name="are_you_certain">ARE YOU ABSOLUTELY CERTAIN?</string>
+    <string name="save_protocol">SAVE PROTOCOL</string>
+    <string name="go_back">GO BACK</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_title">PROTOCOL</string>
+    <string name="onboarding_subtitle">Strict. Fair. Brutal.</string>
+    <string name="onboarding_description">This is not a motivation app. This is a discipline system.</string>
+    <string name="begin_protocol">Begin Protocol</string>
+    <string name="no_login_required">No login. Data stays on your device only.</string>
+    
+    <string name="your_metrics">Your Metrics</string>
+    <string name="be_honest">Be honest. The system calculates your body type.</string>
+    <string name="identity_label">Identity</string>
+    <string name="name_required">*</string>
+    <string name="enter_name">ENTER YOUR NAME</string>
+    <string name="age_label">Age</string>
+    <string name="height_label">Height (cm)</string>
+    <string name="weight_label">Weight (kg)</string>
+    <string name="activity_level">Activity Level</string>
+    <string name="activity_low">LOW</string>
+    <string name="activity_medium">MEDIUM</string>
+    <string name="activity_high">HIGH</string>
+    
+    <string name="training_mode">Training Mode</string>
+    <string name="where_train">Where will you train?</string>
+    <string name="home">Home</string>
+    <string name="home_desc">Bodyweight &amp; minimal equipment</string>
+    <string name="gym">Gym</string>
+    <string name="gym_desc">Free weights &amp; machines</string>
+    
+    <string name="your_goal">Your Goal</string>
+    <string name="goal_question">What are you working toward?</string>
+    <string name="goal_athletic">Athletic</string>
+    <string name="goal_athletic_desc">Balanced fitness, performance focus</string>
+    <string name="goal_lean">Lean</string>
+    <string name="goal_lean_desc">Fat loss, definition priority</string>
+    <string name="goal_muscular">Muscular</string>
+    <string name="goal_muscular_desc">Size and strength gains</string>
+    <string name="goal_strong">Strong</string>
+    <string name="goal_strong_desc">Pure strength, powerlifting focus</string>
+    
+    <string name="diet_preference">Diet Preference</string>
+    <string name="choose_nutrition">Choose your nutrition style.</string>
+    <string name="vegetarian">Vegetarian</string>
+    <string name="vegetarian_desc">Plant-based protein, dairy included</string>
+    <string name="non_vegetarian">Non-Vegetarian</string>
+    <string name="non_vegetarian_desc">Chicken, fish, eggs, full protein</string>
+    
+    <string name="analyze_body_type">Analyze Body Type</string>
+    <string name="calculating">Calculating Body Type</string>
+    <string name="analyzing">Analyzing BMI, WHR, and activity metrics...</string>
+    
+    <string name="your_body_type">Your Body Type</string>
+    <string name="your_protocol">Your Protocol</string>
+    <string name="start_protocol">Start Protocol</string>
+    <string name="no_excuses">No excuses. No shortcuts. Just discipline.</string>
+    
+    <string name="continue_btn">Continue</string>
+    <string name="back_btn">Back</string>
+    
+    <!-- Privacy Policy -->
+    <string name="privacy_title">Privacy Policy</string>
+    <string name="back_to_protocol">Back to Protocol</string>
+    <string name="privacy_intro">The Discipline Fitness App (\"Protocol\") respects your privacy. This policy outlines our data practices.</string>
+    
+    <string name="monetization_title">Monetization &amp; Ads</string>
+    <string name="monetization_text_1">This application uses Google AdMob to serve advertisements. Third-party vendors, including Google, use cookies to serve ads based on a user\'s prior visits to your website or other websites.</string>
+    <string name="monetization_text_2">Google\'s use of advertising cookies enables it and its partners to serve ads to users based on their visit to your sites and/or other sites on the Internet.</string>
+    
+    <string name="data_storage_title">Data Storage</string>
+    <string name="data_storage_text">Protocol is a local-first application. No personal fitness data, metrics, or workout logs are stored on our servers. All data remains exclusively on your device\'s local storage.</string>
+    
+    <string name="external_links_title">External Links</string>
+    <string name="external_links_text">For more information on how Google manages data in its ad products, please visit:</string>
+    <string name="google_privacy_link">https://policies.google.com/privacy</string>
+    <string name="google_privacy_label">Google Privacy &amp; Terms</string>
+    
+    <!-- Badges -->
+    <string name="achievements">Achievements</string>
+    <string name="no_achievements">No achievements unlocked yet. Execute your protocol.</string>
+    
+    <!-- Status Messages -->
+    <string name="day_complete_saved">DAY COMPLETE - STREAK SAVED</string>
+    <string name="day_complete_missed">DAY COMPLETE - STREAK MISSED</string>
+    <string name="ready_to_save">READY TO SAVE</string>
+    <string name="consistency_required">CONSISTENCY REQUIRED</string>
+</resources>

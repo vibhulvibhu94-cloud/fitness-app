@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DC2626</color>
+    <color name="colorPrimaryDark">#991B1B</color>
+    <color name="colorAccent">#DC2626</color>
+    
+    <color name="background">#000000</color>
+    <color name="surface">#18181B</color>
+    <color name="surfaceVariant">#27272A</color>
+    
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="textSecondary">#71717A</color>
+    <color name="textTertiary">#3F3F46</color>
+    
+    <color name="success">#10B981</color>
+    <color name="error">#DC2626</color>
+    <color name="warning">#F59E0B</color>
+    
+    <color name="red_900">#7F1D1D</color>
+    <color name="red_800">#991B1B</color>
+    <color name="red_600">#DC2626</color>
+    <color name="red_500">#EF4444</color>
+    
+    <color name="zinc_900">#18181B</color>
+    <color name="zinc_800">#27272A</color>
+    <color name="zinc_700">#3F3F46</color>
+    <color name="zinc_600">#52525B</color>
+    <color name="zinc_500">#71717A</color>
+    <color name="zinc_400">#A1A1AA</color>
+    
+    <color name="emerald_500">#10B981</color>
+</resources>
